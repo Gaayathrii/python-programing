@@ -1,0 +1,7 @@
+INPUT:
+#checking python compiler
+#lets start
+print("Hello World")
+
+OUTPUT:
+Hello World
